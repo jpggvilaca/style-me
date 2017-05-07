@@ -1,0 +1,16 @@
+.banner {
+  background-image: url('http://media3.s-nbcnews.com/i/newscms/2016_42/1167207/style-squad-lilliana-vazquez-today-161018-tease-01_c65765b69844490d2713db86afb94c7e.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 580px;
+  position: relative;
+}
+
+.banner h1 {
+  background-color: #fff;
+  position: absolute;
+  bottom: 120px;
+  left: 0;
+  padding: 20px;
+}

@@ -1,0 +1,21 @@
+.hiw {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.hiw h2 {
+  text-align: center;
+  margin-bottom: 60px;
+  width: 100%;
+}
+
+.hiw ul {
+  display: flex;
+  padding: 0 40px;
+  width: 100%;
+}
+
+.hiw li {
+  flex: 0 1 calc(100% / 3);
+}
